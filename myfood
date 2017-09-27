@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+ <body>
+  <!DOCTYPE html>
+<!-- overall container-->
+  <html>
+<head>
+<style>
+
+div.container {
+    width: 100%;
+    border: 2px solid black;
+}
+ header, footer {
+    padding: 3em;
+    color: white;
+    background-color: seagreen;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 400px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: ;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+   text-align:top left;
+    margin-left: 410px;
+    border-left: 1px solid black;
+    padding: 11em;
+    overflow: hidden;
+ }
+</style>
+</head>
+<body>
+
+<div class="container">
+<!-- this is where the header code is-->
+<header>
+  <img src="http://www.ravenssoccer.org/uploads/4/7/0/3/47038025/5767386_orig.png" alt="CCA RAVENS" style="width:163px;height:95px;">
+   <h1>My Exploring Computer Science Website</h1>
+</header>
+  <!-- this is the container on the left for the titles-->
+<nav>
+  <ul>
+    <p><i>Here are some other pages</i></p>
+     <li><a href="index.html">Home</a></li>
+   <li><a href="myhobbies.html">My Hobbies</a></li>
+  </ul>
+</nav>
+<!-- This is my food ideas   -->
+<article>
+  <b><h1>BIO</h1></b>
+ <img src="" alt="biking" style="width:500px;height:332px;">
+<p>Hi, these are some of my favorite foods </p>
+  <p></p>
+  <p></p>
+</article>
+ <!-- this is the footer containing liks-->
+ <footer><a href="http://www.sduhsd.net/">District Website</a></footer>
+<footer> <img src="http://www.sduhsd.net/images/logo.png" alt="sduhsd" style="width:90px;height:74px;"></footer>
+</div>
+
+</body>
+</html>
